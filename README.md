@@ -1,4 +1,4 @@
-# Customer Churn Prediction & Retention Strategy
+# 📊 Customer Churn Prediction & Retention Strategy
 
 A machine learning solution that predicts customer churn in the telecommunications industry and identifies actionable retention strategies. This project combines predictive modeling with business analysis to reduce churn rates and improve customer lifetime value.
 
